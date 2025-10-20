@@ -1,10 +1,9 @@
-console.log("Hello World!");
-// 1. Create an array called favoriteFoods with at least 6 foods you love.
-
+console.log("Favorite Foods");
+let food = [spaghetti, chicken or shrimp alfredo, pizza, fried chicken, cinnamon rolls, burgers, tacos, mac and cheese]
 
 
 // 2. Loop through the list and print: "One of my favorite foods is ______."
-
+One of my favorite foods is tacos.
 
 
 
@@ -13,10 +12,6 @@ console.log("Hello World!");
 // "My #1 favorite food is Ramen" (copy/paste for all items)
 // "My #2 favorite food is Sushi"
 // ...etc.
-
-
-
-
 
 // 4a. Create a function printFoodRecommendation(foodName) that prints out the following for the foodName provided
     // "Have you ever tried ____?"
@@ -56,4 +51,6 @@ let friendFavorites = [
 
 
 // 10. STRETCH: Find the longest food name and print:
+// "The longest food name in the list is ______ with ___ characters."
+
 // "The longest food name in the list is ______ with ___ characters."
