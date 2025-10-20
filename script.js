@@ -12,6 +12,14 @@ One of my favorite foods is tacos.
 // "My #1 favorite food is Ramen" (copy/paste for all items)
 // "My #2 favorite food is Sushi"
 // ...etc.
+My #1 favorite food is cinnamon rolls
+My #2 favorite food is spaghetti
+My #3 favorite food is fried chicken
+My #4 favorite food is mac and cheese
+My #5 favorite food is pizza
+My #6 favorite food is alfredo
+My #7 favorite food is burgers
+My #8 favorite food is tacos
 
 // 4a. Create a function printFoodRecommendation(foodName) that prints out the following for the foodName provided
     // "Have you ever tried ____?"
@@ -53,4 +61,3 @@ let friendFavorites = [
 // 10. STRETCH: Find the longest food name and print:
 // "The longest food name in the list is ______ with ___ characters."
 
-// "The longest food name in the list is ______ with ___ characters."
